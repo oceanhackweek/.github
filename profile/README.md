@@ -1,6 +1,6 @@
 # Hi, welcome to OceanHackWeek
 
-OceanHackWeek 2022 will take place **August 15-19, 2022**. The workshop will take a hybrid form consisting of a global virtual event and a number of regional “satellite” events that are either in-person or virtual. **Applications are now open!**
+OceanHackWeek 2022 will take place **August 15-19, 2022**. The workshop will take a hybrid form consisting of a global virtual event and a number of regional “satellite” events that are either in-person or virtual.
 
 [For more info see oceanhackweek.github.io](https://oceanhackweek.github.io/).
 
