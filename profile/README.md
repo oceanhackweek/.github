@@ -1,6 +1,6 @@
 # Hi, welcome to OceanHackWeek
 
-We are making plans for OceanHackWeek 2023. While there are many decisions to be made, it will likely take place in August 2023 in a hybrid form with one in-person event and a global virtual event. Visit us again in April 2023 for updates! In the meantime, you can learn more about OceanHackWeek by browsing our web site ([https://oceanhackweek.org](https://oceanhackweek.org)), including [last year's event, OHW22](https://oceanhackweek.org/ohw22/); and [contact us](https://oceanhackweek.org/about/contact.html) if you're interested in helping out.
+We have finished OceanHackWeek 2025!  Visit us again in early 2026 for updates! In the meantime, you can learn more about OceanHackWeek by browsing our web site ([https://oceanhackweek.org](https://oceanhackweek.org)), including [our just finished event, OHW25](https://oceanhackweek.org/ohw25/); and [contact us](https://oceanhackweek.org/about/contact.html) if you're interested in helping out.
 
 ## About OceanHackWeek
 
